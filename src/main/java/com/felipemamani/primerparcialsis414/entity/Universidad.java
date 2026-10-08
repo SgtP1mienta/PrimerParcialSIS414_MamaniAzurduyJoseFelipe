@@ -1,4 +1,4 @@
-package com.manuel.primer_parcial.entity;
+package com.felipemamani.primerparcialsis414.entity;
 
 import jakarta.persistence.*;
 
